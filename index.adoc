@@ -3,7 +3,7 @@ layout: astra
 sidebar: sidebar
 permalink: index.html
 lead: These release notes describe new features, limitations, and known issues specific to Cloud Volumes ONTAP 9.10.1.
-summary: The Release Notes for Cloud Volumes ONTAP provide release-specific information. What's new in the release, supported configurations, storage limits, and any known limitations or issues that can affect product functionality.
+summary: These release notes describe new features, limitations, and known issues specific to Cloud Volumes ONTAP 9.10.1.
 ---
 
 = Cloud Volumes ONTAP 9.10.1 Release Notes

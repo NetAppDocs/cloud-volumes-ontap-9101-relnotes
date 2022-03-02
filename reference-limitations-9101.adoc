@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: reference_limitations_9101.html
+permalink: reference-limitations-9101.html
 keywords: limitations, detaching, snapmanager, features, disks, aggregates, features, svm
 summary: Known limitations identify platforms, devices, or functions that are not supported by this release of the product, or that do not interoperate correctly with it. Review these limitations carefully.
 ---

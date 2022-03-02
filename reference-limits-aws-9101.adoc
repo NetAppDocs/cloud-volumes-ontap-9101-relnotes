@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: reference_limits_aws_9101.html
+permalink: reference-limits-aws-9101.html
 keywords: limits, maximum, storage, aggregates, disks, volumes, capacity, luns, size, storage virtual machine, SVM, ebs
 summary: Cloud Volumes ONTAP has storage configuration limits in AWS to provide reliable operations. For best performance, do not configure your system at the maximum values.
 ---

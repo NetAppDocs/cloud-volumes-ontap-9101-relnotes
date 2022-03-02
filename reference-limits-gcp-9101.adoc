@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: reference_limits_gcp_9101.html
+permalink: reference-limits-gcp-9101.html
 keywords: limits, maximum, storage, aggregates, disks, volumes, capacity, luns, size, storage virtual machine, SVM
 summary: Cloud Volumes ONTAP has storage configuration limits in GCP to provide reliable operations. For best performance, do not configure your system at the maximum values.
 ---

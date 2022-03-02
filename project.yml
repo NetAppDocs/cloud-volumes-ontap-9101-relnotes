@@ -11,40 +11,40 @@ sidebar:
     - title: Cloud Volumes ONTAP 9.10.1 Release Notes
       url: /index.html
     - title: What's new
-      url: /reference_new_9101.html
+      url: /reference-new-9101.html
     - title: Licensing overview
-      url: /concept_licensing_9101.html
+      url: /concept-licensing-9101.html
     - title: Supported configurations
       entries:
         - title: AWS
-          url: /reference_configs_aws_9101.html
+          url: /reference-configs-aws-9101.html
         - title: Azure
-          url: /reference_configs_azure_9101.html
+          url: /reference-configs-azure-9101.html
         - title: GCP
-          url: /reference_configs_gcp_9101.html
+          url: /reference-configs-gcp-9101.html
     - title: Storage limits
       entries:
         - title: AWS
-          url: /reference_limits_aws_9101.html
+          url: /reference-limits-aws-9101.html
         - title: Azure
-          url: /reference_limits_azure_9101.html
+          url: /reference-limits-azure-9101.html
         - title: GCP
-          url: /reference_limits_gcp_9101.html
+          url: /reference-limits-gcp-9101.html
     - title: Known issues
-      url: /reference_issues_9101.html
+      url: /reference-issues-9101.html
     - title: Known limitations
       entries:
         - title: Common limitations
-          url: /reference_limitations_9101.html
+          url: /reference-limitations-9101.html
         - title: Limitations in AWS
-          url: /reference_limitations_aws_9101.html
+          url: /reference-limitations-aws-9101.html
         - title: Limitations in Azure
-          url: /reference_limitations_azure_9101.html
+          url: /reference-limitations-azure-9101.html
         - title: Limitations in GCP
-          url: /reference_limitations_gcp_9101.html
+          url: /reference-limitations-gcp-9101.html
     - title: Cloud provider integrations
-      url: reference_provider_integrations_9101.html
+      url: /reference-provider-integrations-9101.html
     - title: Knowledge and support
       url: /get-help.html
     - title: Legal notices
-      url: /reference_legal_notices.html
+      url: /reference-legal-notices.html
