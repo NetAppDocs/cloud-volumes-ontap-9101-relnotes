@@ -1,9 +1,6 @@
 settings:
   name: Cloud Volumes ONTAP 9.10.1 release notes
   platform: cloud
-  product-family:
-    name: Cloud Manager
-    repo: cloud-manager-family
   internal:
     pdf_enabled: true
   prod:
@@ -42,6 +39,9 @@ settings:
     - name: Cloud Volumes ONTAP
       url: /cloud-volumes-ontap-93-relnotes
       version-number: "9.3"
+product-family:
+  name: Cloud Manager
+  repo: cloud-manager-family
 sidebar:
   entries:
     - title: Back to Cloud Manager documentation
