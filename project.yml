@@ -39,9 +39,6 @@ settings:
     - name: Cloud Volumes ONTAP
       url: /cloud-volumes-ontap-93-relnotes
       version-number: "9.3"
-product-family:
-  name: Cloud Manager
-  repo: cloud-manager-family
 sidebar:
   entries:
     - title: Back to Cloud Manager documentation
@@ -84,6 +81,9 @@ sidebar:
       url: /reference-provider-integrations.html
     - title: Legal notices
       url: /reference-legal-notices.html
+product-family:
+  name: Cloud Manager
+  repo: cloud-manager-family
 homepage:
   tiles:
     - title: Get started
