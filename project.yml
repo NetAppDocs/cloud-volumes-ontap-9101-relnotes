@@ -1,5 +1,9 @@
 settings:
   name: Cloud Volumes ONTAP 9.10.1 release notes
+  platform: cloud
+  product-family:
+    name: Cloud Manager
+    repo: cloud-manager-family
   internal:
     pdf_enabled: true
   prod:
