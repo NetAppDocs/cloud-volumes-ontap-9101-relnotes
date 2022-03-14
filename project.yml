@@ -50,20 +50,32 @@ homepage:
   tiles:
     - title: Get started
       links:
-        - title: title
-          url: page.html
-        - title: title
-          url: page.html
-        - title: title
-          url: page.html
-    - title: tile name
+        - title: What's new
+          url: reference-new-9101.html
+    - title: Amazon Web Services
       links:
-        - title: title
-          url: page.html
-        - title: title
-          url: page.html
-        - title: title
-          url: page.html
+        - title: Supported configurations
+          url: reference-configs-aws-9101.html
+        - title: Storage limits
+          url: reference-limits-aws-9101.html
+        - title: Limitations
+          url: reference-limitations-gcp-9101.html
+    - title: Google Cloud
+      links:
+        - title: Supported configurations
+          url: reference-configs-gcp-9101.html
+        - title: Storage limits
+          url: reference-limits-gcp-9101.html
+        - title: Limitations
+          url: reference-limitations-gcp-9101.html
+    - title: Microsoft Azure
+      links:
+        - title: Supported configurations
+          url: reference-configs-azure-9101.html
+        - title: Storage limits
+          url: reference-limits-azure-9101.html
+        - title: Limitations
+          url: reference-limitations-azure-9101.html
     - title: Blogs & community
       links:
         - title: NetApp Community
