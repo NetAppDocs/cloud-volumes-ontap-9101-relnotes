@@ -45,39 +45,39 @@ sidebar:
     - title: Release notes home
       url: /index.html
     - title: What's new
-      url: /reference-new-9101.html
+      url: /reference-new.html
     - title: Licensing overview
-      url: /concept-licensing-9101.html
+      url: /concept-licensing.html
     - title: Supported configurations
       entries:
         - title: AWS
-          url: /reference-configs-aws-9101.html
+          url: /reference-configs-aws.html
         - title: Azure
-          url: /reference-configs-azure-9101.html
+          url: /reference-configs-azure.html
         - title: GCP
-          url: /reference-configs-gcp-9101.html
+          url: /reference-configs-gcp.html
     - title: Storage limits
       entries:
         - title: AWS
-          url: /reference-limits-aws-9101.html
+          url: /reference-limits-aws.html
         - title: Azure
-          url: /reference-limits-azure-9101.html
+          url: /reference-limits-azure.html
         - title: GCP
-          url: /reference-limits-gcp-9101.html
+          url: /reference-limits-gcp.html
     - title: Known issues
-      url: /reference-issues-9101.html
+      url: /reference-issues.html
     - title: Known limitations
       entries:
         - title: Common limitations
-          url: /reference-limitations-9101.html
+          url: /reference-limitations.html
         - title: Limitations in AWS
-          url: /reference-limitations-aws-9101.html
+          url: /reference-limitations-aws.html
         - title: Limitations in Azure
-          url: /reference-limitations-azure-9101.html
+          url: /reference-limitations-azure.html
         - title: Limitations in GCP
-          url: /reference-limitations-gcp-9101.html
+          url: /reference-limitations-gcp.html
     - title: Cloud provider integrations
-      url: /reference-provider-integrations-9101.html
+      url: /reference-provider-integrations.html
     - title: Legal notices
       url: /reference-legal-notices.html
 homepage:
@@ -85,33 +85,33 @@ homepage:
     - title: Get started
       links:
         - title: What's new
-          url: reference-new-9101.html
+          url: reference-new.html
         - title: Licensing overview
-          url: concept-licensing-9101.html
+          url: concept-licensing.html
     - title: Amazon Web Services
       links:
         - title: Supported configurations
-          url: reference-configs-aws-9101.html
+          url: reference-configs-aws.html
         - title: Storage limits
-          url: reference-limits-aws-9101.html
+          url: reference-limits-aws.html
         - title: Limitations
-          url: reference-limitations-gcp-9101.html
+          url: reference-limitations-gcp.html
     - title: Google Cloud
       links:
         - title: Supported configurations
-          url: reference-configs-gcp-9101.html
+          url: reference-configs-gcp.html
         - title: Storage limits
-          url: reference-limits-gcp-9101.html
+          url: reference-limits-gcp.html
         - title: Limitations
-          url: reference-limitations-gcp-9101.html
+          url: reference-limitations-gcp.html
     - title: Microsoft Azure
       links:
         - title: Supported configurations
-          url: reference-configs-azure-9101.html
+          url: reference-configs-azure.html
         - title: Storage limits
-          url: reference-limits-azure-9101.html
+          url: reference-limits-azure.html
         - title: Limitations
-          url: reference-limitations-azure-9101.html
+          url: reference-limitations-azure.html
     - title: Blogs & community
       links:
         - title: NetApp Community
