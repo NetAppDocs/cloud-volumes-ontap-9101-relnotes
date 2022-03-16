@@ -1,6 +1,6 @@
 ---
 sidebar: sidebar
-permalink: reference-new-9101.html
+permalink: reference-new.html
 keywords: what's new, new, features, release notes, enhancements
 summary: Cloud Volumes ONTAP 9.10.1 includes several new features and enhancements.
 ---
@@ -15,7 +15,7 @@ summary: Cloud Volumes ONTAP 9.10.1 includes several new features and enhancemen
 [.lead]
 Cloud Volumes ONTAP 9.10.1 includes several new features and enhancements.
 
-Additional features and enhancements are also introduced in the latest versions of Cloud Manager. See the https://docs.netapp.com/us-en/occm/reference_new_occm.html[Cloud Manager Release Notes^] for details.
+Additional features and enhancements are also introduced in the latest versions of Cloud Manager. See the https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/whats-new.html[Cloud Manager Release Notes^] for details.
 
 == Licensing update (9 Feb 2022)
 
@@ -33,7 +33,7 @@ If you're a new customer, Cloud Manager will prompt you to subscribe when you cr
 +
 This charging method is still available for existing customers who have an active subscription.
 
-link:concept-licensing-9101.html[Learn more about the licensing options for Cloud Volumes ONTAP].
+link:concept-licensing.html[Learn more about the licensing options for Cloud Volumes ONTAP].
 
 == 9.10.1 GA (31 Jan 2022)
 
@@ -50,7 +50,7 @@ As part of the Cloud Manager 3.9.14 release, Cloud Volumes ONTAP is now supporte
 * E32ds_v4
 * E48ds_v4
 
-Go to the link:reference-configs-azure-9101.html[supported configurations page^] for more details.
+Go to the link:reference-configs-azure.html[supported configurations page^] for more details.
 
 == 9.10.1 RC1 (28 Nov 2021)
 
@@ -86,13 +86,11 @@ As part of the Cloud Manager 3.9.13 release, you can now use a Keystone Flex Sub
 
 A Keystone Flex Subscription is supported with all new versions of Cloud Volumes ONTAP that you can deploy from Cloud Manager.
 
-https://docs.netapp.com/us-en/occm/reference_new_occm.html#cloud-manager-3-9-13-28-nov-2021[Learn more about the Cloud Manager 3.9.13 release^].
-
 === Encryption key management
 
 The ONTAP 9.10.1 release includes an enhancement that enables you to use Azure Key Vault (AKV) or the Google Cloud Key Management Service to protect ONTAP encryption keys.
 
-https://docs.netapp.com/us-en/occm/concept_security.html#encryption-of-data-at-rest[Learn more about encryption support for Cloud Volumes ONTAP^].
+https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/concept-security.html[Learn more about encryption support for Cloud Volumes ONTAP^].
 
 == Required version of the Cloud Manager Connector
 
@@ -106,7 +104,7 @@ TIP: Automatic upgrades of the Connector are enabled by default so you should be
 
 * You can upgrade to Cloud Volumes ONTAP 9.10.1 from the 9.10.0 release and from the 9.9.1 release. Cloud Manager will prompt you to upgrade eligible Cloud Volumes ONTAP systems to the 9.10.1 release.
 +
-http://docs.netapp.com/us-en/occm/task_updating_ontap_cloud.html#upgrading-cloud-volumes-ontap-from-cloud-manager-notifications[Learn how to upgrade when Cloud Manager notifies you^].
+http://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/task-updating-ontap-cloud.html[Learn how to upgrade when Cloud Manager notifies you^].
 
 * The upgrade of a single node system takes the system offline for up to 25 minutes, during which I/O is interrupted.
 
