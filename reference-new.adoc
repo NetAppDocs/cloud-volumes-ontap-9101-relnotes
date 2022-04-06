@@ -50,7 +50,7 @@ As part of the Cloud Manager 3.9.14 release, Cloud Volumes ONTAP is now supporte
 * E32ds_v4
 * E48ds_v4
 
-Go to the link:reference-configs-azure.html[supported configurations page^] for more details.
+Go to the link:reference-configs-azure.html[supported configurations page] for more details.
 
 == 9.10.1 RC1 (28 Nov 2021)
 
