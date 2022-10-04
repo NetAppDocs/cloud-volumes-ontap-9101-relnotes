@@ -17,6 +17,12 @@ Cloud Volumes ONTAP 9.10.1 includes several new features and enhancements.
 
 Additional features and enhancements are also introduced in the latest versions of Cloud Manager. See the https://docs.netapp.com/us-en/cloud-manager-cloud-volumes-ontap/whats-new.html[Cloud Manager Release Notes^] for details.
 
+== 9.10.1 P6 (13 July 2022)
+
+The 9.10.1 P6 patch is now available for Cloud Volumes ONTAP in Microsoft Azure if you have a Connector running version 3.9.19 or later. Cloud Manager will prompt you to upgrade your existing systems to this patch release.
+
+https://mysupport.netapp.com/site/products/all/details/cloud-volumes-ontap/downloads-tab/download/62632/9.10.1P6[View the list of bugs fixed in the P6 patch^] (NetApp Support Site login required).
+
 == 9.10.1 P3 (15 May 2022)
 
 The 9.10.1 P3 patch is now available for Cloud Volumes ONTAP in Microsoft Azure if you have a Connector running version 3.9.13 or later. Cloud Manager will prompt you to upgrade your existing systems to this patch release.
