@@ -19,15 +19,15 @@ The following limitations apply to Cloud Volumes ONTAP in all cloud providers: A
 
 == Cloud Volumes ONTAP deployment must not be modified from your cloud provider's console
 
-Changes to a Cloud Volumes ONTAP system's configuration from your cloud provider's console results in an unsupported configuration. Any changes to the Cloud Volumes ONTAP resources that Cloud Manager creates and manages can impact system stability and Cloud Manager's ability to manage the system.
+Changes to a Cloud Volumes ONTAP system's configuration from your cloud provider's console results in an unsupported configuration. Any changes to the Cloud Volumes ONTAP resources that BlueXP creates and manages can impact system stability and BlueXP's ability to manage the system.
 
-== Disks and aggregates must be managed from Cloud Manager
+== Disks and aggregates must be managed from BlueXP
 
-All disks and aggregates must be created and deleted directly from Cloud Manager. You should not perform these actions from another management tool. Doing so can impact system stability, hamper the ability to add disks in the future, and potentially generate redundant cloud provider fees.
+All disks and aggregates must be created and deleted directly from BlueXP. You should not perform these actions from another management tool. Doing so can impact system stability, hamper the ability to add disks in the future, and potentially generate redundant cloud provider fees.
 
-== Software updates must be completed by Cloud Manager
+== Software updates must be completed by BlueXP
 
-Upgrades of Cloud Volumes ONTAP must be completed from Cloud Manager. You should not upgrade Cloud Volumes ONTAP by using System Manager or the CLI. Doing so can impact system stability.
+Upgrades of Cloud Volumes ONTAP must be completed from BlueXP. You should not upgrade Cloud Volumes ONTAP by using System Manager or the CLI. Doing so can impact system stability.
 
 == Cloud provider snapshots must not be used for your backup and recovery plans
 
