@@ -41,16 +41,6 @@ NOTE: ONTAP consistency points in the WAFL file system determine data consistenc
 
 Automatic application resource management solutions should not manage Cloud Volumes ONTAP systems. Doing so can result in a change to an unsupported configuration. For example, the solution might change Cloud Volumes ONTAP to an unsupported VM instance type.
 
-== Support in China regions
-
-Cloud Volumes ONTAP is supported in China regions as follows.
-
-*	Cloud Volumes ONTAP 9.6 is supported in AWS China regions.
-* Single node systems are supported.
-*	Licenses purchased directly from NetApp are supported.
-
-All other locations, versions, configurations, and licenses aren't supported.
-
 == Cloud Volumes ONTAP supports Reserved and On-demand VM instances
 
 Cloud Volumes ONTAP can run on either a Reserved or On-demand VM instance from your cloud provider. Other types of VM instances aren't supported.
