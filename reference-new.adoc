@@ -132,3 +132,4 @@ Refer to link:https://mysupport.netapp.com/info/communications/ECMLP2880231.html
 === DS3_v2
 
 Starting with the 9.9.1 release, the DS3_v2 VM type is no longer supported with new and existing Cloud Volumes ONTAP systems. If you have an existing system running on this VM type, you'll need to change VM types before you upgrade to 9.10.1.
+
